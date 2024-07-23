@@ -4,3 +4,7 @@ Emoji
 Type Caption
 colours 
 vibrant
+
+
+Videos
+Payment
